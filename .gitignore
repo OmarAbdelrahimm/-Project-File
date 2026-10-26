@@ -1,0 +1,28 @@
+node_modules/
+dist/
+exports/
+google_drive/
+
+# Raw media and generated deliverables — store in Google Drive only
+source/
+audio/
+images/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.aac
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
