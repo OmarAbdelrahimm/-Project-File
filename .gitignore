@@ -21,9 +21,9 @@ images/
 *.webp
 *.gif
 
-# Generated preview build cache and uploaded visual outputs
+# Generated preview package and uploaded visual outputs (delivered via Drive)
 .scratch/
-brand/v3/00_Approval_Preview/assets/
+brand/v3/00_Approval_Preview/
 
 # OS/editor noise
 .DS_Store
