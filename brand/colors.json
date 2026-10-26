@@ -1,0 +1,18 @@
+{
+  "brand": "ملف المشروع",
+  "version": "3.0.0",
+  "colors": [
+    {"name": "Navy", "hex": "#122536", "role": "Primary identity background"},
+    {"name": "Navy Deep", "hex": "#1B3448", "role": "Secondary depth plane"},
+    {"name": "Charcoal", "hex": "#171A1D", "role": "Dark neutral"},
+    {"name": "Graphite", "hex": "#20262A", "role": "Dark structural neutral"},
+    {"name": "Blueprint Blue", "hex": "#8FA8B9", "role": "Technical grid and secondary annotation"},
+    {"name": "Project Gold", "hex": "#D8B46E", "role": "Primary accent and OA crossbar"},
+    {"name": "Muted Gold", "hex": "#B78E45", "role": "Metallic depth and secondary accent"},
+    {"name": "Ivory", "hex": "#F4EFE5", "role": "Primary light mark and text"},
+    {"name": "Stone", "hex": "#B8B0A1", "role": "Muted light text and secondary surfaces"},
+    {"name": "Muted", "hex": "#87949C", "role": "Quiet interface text"},
+    {"name": "White", "hex": "#FFFFFF", "role": "Light surface"},
+    {"name": "Ink", "hex": "#1C2730", "role": "Primary text on light backgrounds"}
+  ]
+}

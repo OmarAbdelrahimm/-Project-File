@@ -21,6 +21,10 @@ images/
 *.webp
 *.gif
 
+# Generated preview build cache and uploaded visual outputs
+.scratch/
+brand/v3/00_Approval_Preview/assets/
+
 # OS/editor noise
 .DS_Store
 Thumbs.db

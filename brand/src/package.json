@@ -1,0 +1,16 @@
+{
+  "name": "file-project-brand-v3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render:smoke": "node render.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.409",
+    "@remotion/renderer": "4.0.409",
+    "@resvg/resvg-js": "^2.6.2",
+    "@sparticuz/chromium": "^141.0.0",
+    "puppeteer-core": "^25.16.0",
+    "remotion": "4.0.409"
+  }
+}

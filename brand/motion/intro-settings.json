@@ -1,0 +1,16 @@
+{
+  "composition": "ProjectFileIntro",
+  "durationSeconds": 1.5,
+  "durationInFrames": 45,
+  "fps": 30,
+  "formats": [
+    {"id": "BrandIntroHorizontal", "width": 1920, "height": 1080},
+    {"id": "BrandIntroVertical", "width": 1080, "height": 1920}
+  ],
+  "deliverables": [
+    {"container": "MOV", "codec": "ProRes 4444", "pixelFormat": "yuva444p10le", "alpha": true},
+    {"container": "MP4", "codec": "H.264", "pixelFormat": "yuv420p", "alpha": false, "background": "#122536"}
+  ],
+  "source": ["../src/Intro.jsx", "../src/RemotionRoot.jsx", "../src/render.mjs"],
+  "remotionVersion": "4.0.409"
+}
