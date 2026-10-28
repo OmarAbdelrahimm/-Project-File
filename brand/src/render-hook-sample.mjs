@@ -1,0 +1,22 @@
+import path from 'node:path';
+import fs from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import chromium from '@sparticuz/chromium';
+import {inflate} from './node_modules/@sparticuz/chromium/build/esm/lambdafs.js';
+import {bundle} from '@remotion/bundler';
+import {selectComposition, renderMedia} from '@remotion/renderer';
+
+const here=path.dirname(fileURLToPath(import.meta.url));
+const out=path.resolve(here,'../exports');
+await fs.mkdir(out,{recursive:true});
+const outputLocation=path.join(out,'CASE_001_Hook_Sample_v2.mp4');
+const serveUrl=await bundle({entryPoint:path.join(here,'index.jsx'),webpackOverride:(config)=>config});
+const browserExecutable=await chromium.executablePath();
+const al2023Libs=path.join(here,'node_modules','@sparticuz','chromium','bin','al2023.tar.br');
+await inflate(al2023Libs);
+process.env.LD_LIBRARY_PATH=`/tmp/al2023/lib:${process.env.LD_LIBRARY_PATH||''}`;
+const composition=await selectComposition({serveUrl,id:'CASE001HookSampleV2',browserExecutable});
+if(composition.fps!==30 || composition.width!==1280 || composition.height!==720) throw new Error('Unexpected Hook sample composition geometry');
+console.log(`Rendering ${composition.durationInFrames} frames at ${composition.fps} fps to ${outputLocation}`);
+await renderMedia({composition,serveUrl,codec:'h264',outputLocation,pixelFormat:'yuv420p',crf:21,audioCodec:'aac',audioBitrate:'192k',concurrency:2,browserExecutable,chromiumOptions:{gl:'angle'},logLevel:'error'});
+console.log(`Rendered: ${outputLocation}`);

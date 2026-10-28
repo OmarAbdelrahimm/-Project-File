@@ -3,9 +3,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "render:smoke": "node render.mjs"
+    "render:smoke": "node render.mjs",
+    "render:hook-sample": "node render-hook-sample.mjs",
+    "render:case001-rough-cut": "node render-case001.mjs"
   },
   "dependencies": {
+    "@fontsource/amiri": "^5.3.0",
+    "@fontsource/ibm-plex-sans-arabic": "^5.3.0",
     "@remotion/bundler": "4.0.409",
     "@remotion/renderer": "4.0.409",
     "@resvg/resvg-js": "^2.6.2",

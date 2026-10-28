@@ -1,0 +1,113 @@
+{
+  "_file": "PACK_ANGLE_C.json",
+  "id": "CASE_001-ANGLE_C",
+  "kind": "long",
+  "keyword": "construction delay analysis",
+  "title_a": "تأخير واحد قلب الجدول | construction delay analysis",
+  "title_b": "construction delay analysis: هل تأخر تاريخ الإنجاز؟",
+  "description": "construction delay analysis: نفتح ملف أزمة هندسية مركّبة تبدأ بقرار يبدو بسيطًا ثم تكشف أثره على العقد أو الموقع أو موعد الإنجاز. هذا مدخل البحث لهذه الحلقة وليس وعدًا بنتيجة جاهزة. سنفصل بين ما يثبته المستند وما يحتاج إلى تحقق، ونوضح أن كل مثال رقمي يظهر داخل الشرح تمثيلي وموسوم، وليس رقم مشروع أو واقعة منشورة. لا ننسب الحدث إلى شركة أو شخص حقيقي، ولا نحول حالة مركبة إلى خبر. هدف الحلقة أن تمنح مهندسًا عربيًا خطوة قابلة للاستخدام: سؤالًا صحيحًا، سجلًا أفضل، وقرارًا مبنيًا على وثيقة ومراجعة لا على الانطباع. في construction delay analysis نراجع الأدلة بالترتيب ونوضح حدود ما يمكن استنتاجه.\nالفصول: 00:00 نفتح الملف · 00:45 عرض الأزمة · 02:30 اختبار الأدلة · 06:00 القرار الهندسي · 09:00 الدرس العملي · 11:30 نقفل الملف. مرجع الفيديو للمقارنة التعليمية: https://www.youtube.com/watch?v=tOJ8IuIqBpw&t=120s. مصادر المعايير والحدود مذكورة في الملاحظات؛ يُرجع دائمًا إلى العقد والكود والإجراءات المعتمدة للمشروع. للمزيد من ملفات التخطيط والتنفيذ والعقود والمواقع اشترك في قناة ملف المشروع: https://www.youtube.com/@omar.abdelrahim1. construction delay analysis يصف نية البحث لهذه الحلقة فقط ولا يُفرض على حلقات أخرى. هذه مادة تعليمية عامة وليست رأيًا قانونيًا أو اعتمادًا هندسيًا. #ملف_المشروع #الهندسة_المدنية #إدارة_المشاريع",
+  "tags": [
+    "construction delay analysis",
+    "project delay analysis",
+    "construction delay claims",
+    "critical path method construction",
+    "تحليل تأخير المشروع",
+    "المسار الحرج في إدارة المشاريع",
+    "تأخير المشاريع الإنشائية",
+    "تحديث البرنامج الزمني",
+    "ملف المشروع",
+    "الهندسة المدنية",
+    "إدارة المشاريع",
+    "تخطيط مشاريع",
+    "تنفيذ مشاريع",
+    "عقود مقاولات",
+    "مهندس موقع",
+    "مهندس تخطيط",
+    "إدارة الإنشاءات",
+    "المقاولات",
+    "مهندسون عرب",
+    "إدارة الوقت",
+    "تأخير مشاريع",
+    "تحليل مخاطر",
+    "هندسة الخليج",
+    "Project Controls",
+    "Construction Management",
+    "Civil Engineering",
+    "Project Planning",
+    "Engineerin",
+    "Proje",
+    "Arabi"
+  ],
+  "evidence": "YouTube autocomplete 5 suggestions + competitor public views (1368752; 37526; 4897) — YouTube suggest endpoint + linked videos; Google Trends link (HTTP 429, no index captured) — 2026-10-26 — measured",
+  "primary_keyword": "construction delay analysis",
+  "secondary_keywords": [
+    "project delay analysis",
+    "construction delay claims",
+    "critical path method construction",
+    "تحليل تأخير المشروع",
+    "المسار الحرج في إدارة المشاريع",
+    "تأخير المشاريع الإنشائية",
+    "تحديث البرنامج الزمني"
+  ],
+  "search_intent": "بحث تشخيصي/عملي: مهندس يريد تحديد أثر تأخر النشاط على تاريخ الإنجاز قبل قرار الاسترداد أو التسريع؛ Primavera أداة تطبيق اختيارية وليست موضوع الحلقة.",
+  "chapters": [
+    {
+      "time": "00:00",
+      "title": "نفتح ملف الجدول الأخضر"
+    },
+    {
+      "time": "00:45",
+      "title": "النشاط المتأخر"
+    },
+    {
+      "time": "02:30",
+      "title": "تحديث التقدم والمنطق"
+    },
+    {
+      "time": "05:30",
+      "title": "المسار والسماحية"
+    },
+    {
+      "time": "08:30",
+      "title": "اختيار الاستجابة"
+    },
+    {
+      "time": "11:30",
+      "title": "نقفل الملف والسؤال"
+    }
+  ],
+  "description_stage_note": "الـdescription مسودة اكتشاف من سطرين فعليين مع بلوكات التحقق المطلوبة لقالب Riwaq؛ ليست وصف نشر نهائيًا. بعد اختيار الزاوية تُراجع صياغتها ومراجعها.",
+  "trend_url": "https://trends.google.com/trends/explore?date=today%205-y&geo=SA&q=construction%20delay%20analysis%2C%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D8%AA%D8%A3%D8%AE%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9",
+  "youtube_autocomplete": {
+    "query": "construction delay analysis",
+    "suggestions": [
+      "construction delay analysis",
+      "project delay analysis",
+      "project delay analysis in excel",
+      "construction delay claims",
+      "construction delay"
+    ],
+    "endpoint": "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=construction%20delay%20analysis",
+    "captured_at": "2026-10-26"
+  },
+  "competitor_evidence": [
+    {
+      "title": "Project Management: Finding the Critical Path, duration and Project Duration",
+      "channel": "Civil Engineering Exam",
+      "views_as_of_2026_10_26": 1368752,
+      "url": "https://www.youtube.com/watch?v=tOJ8IuIqBpw"
+    },
+    {
+      "title": "Project Delay Analysis",
+      "channel": "RJ Project Control",
+      "views_as_of_2026_10_26": 37526,
+      "url": "https://www.youtube.com/watch?v=ro9NXoEbfW0"
+    },
+    {
+      "title": "Critical Path Method Explained: 5-Minute Guide to CPM",
+      "channel": "TeamGantt",
+      "views_as_of_2026_10_26": 4897,
+      "url": "https://www.youtube.com/watch?v=t8FxeZgi2V0"
+    }
+  ]
+}

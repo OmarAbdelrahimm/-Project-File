@@ -1,0 +1,135 @@
+{
+  "_file": "PACK_ANGLE_B.json",
+  "id": "CASE_001-ANGLE_B",
+  "kind": "long",
+  "keyword": "pre pour inspection",
+  "title_a": "المضخة وصلت! نصبّ ولا نوقف؟ pre pour inspection",
+  "title_b": "pre pour inspection: نراجع إيه قبل الصب؟",
+  "description": "pre pour inspection: المضخة وصلت… بس هل الصب جاهز فعلًا؟\nهناخد pre pour inspection خطوة خطوة: هنراجع إيه وإمتى نقول «استنى شوية»؟\n\nفي الحلقة دي هنمشي على فحص عملي قبل الصب: آخر إصدار معتمد، التسليح والغطاء، الشدات، المدفونات والفتحات، وبعدين نقطة الفحص والقرار الموثق. من غير أرقام عامة تنفع لكل مشروع، ومن غير ما نحول ضغط الوقت لقرار متسرع.\nالحكاية سيناريو تعليمي خيالي، والقائمة بتنظم المراجعة لكنها ما تستبدلش رسومات ومواصفات وإجراءات المشروع أو الكود المعتمد محليًا. مصطلح pre pour inspection هنا بيوصف نية البحث عن فحص ما قبل الصب، مش اعتمادًا هندسيًا لحالة بعينها.\n\n## الفصول\n00:00 نفتح ملف الصبّة  \n00:40 المضخة وصلت والاعتماد مش واضح  \n02:10 خمس محطات للمراجعة  \n03:15 التسليح والغطاء  \n04:20 الشدات والمدفونات  \n05:10 نرجع لقرار الموقع  \n06:15 المراجع وحدودها  \n07:43 إمتى نعلّق الجزء؟  \n09:12 قائمة الفحص العملية  \n09:55 القرار والخلاصة  \n10:30 السؤال الأخير\n\n## مراجع وحدود\nACI SPEC-311.7-25 — Inspection of Concrete Construction - Specification (2025): https://www.concrete.org/store/productdetail.aspx?ItemID=311725&Language=English&Units=US_Units  \nIBC 2024 §1705.3 (وفق الإصدار المتبنى ونطاق تطبيقه): https://codes.iccsafe.org/s/IBC2024V1.0/chapter-17-special-inspections-and-tests/IBC2024V1.0-Ch17-Sec1705.3  \nللمشاهدة الإضافية فقط، مثال مستقل على فحص التسليح قبل الصب (ليس مادة مستخدمة في الحلقة): https://www.youtube.com/watch?v=7ydsJixgDws&t=70s\n\n#فحص_ما_قبل_الصب #الهندسة_المدنية #مهندس_موقع #جودة_الإنشاءات #ملف_المشروع\n\nالقناة: https://www.youtube.com/@omar.abdelrahim1\n\n**ملف المشروع | قراءة هندسية للمشاريع والبنية التحتية**",
+  "tags": [
+    "pre pour inspection",
+    "pre pour foundation inspection",
+    "rebar inspection",
+    "pre slab inspection",
+    "فحص ما قبل الصب",
+    "استلام حديد التسليح",
+    "مهندس موقع",
+    "فحص الخرسانة",
+    "ملف المشروع",
+    "الهندسة المدنية",
+    "إدارة المشاريع",
+    "تخطيط مشاريع",
+    "تنفيذ مشاريع",
+    "عقود مقاولات",
+    "مهندس تخطيط",
+    "إدارة الإنشاءات",
+    "المقاولات",
+    "مهندسون عرب",
+    "إدارة الوقت",
+    "تأخير مشاريع",
+    "تحليل مخاطر",
+    "هندسة الخليج",
+    "Project Controls",
+    "Construction Management",
+    "Civil Engineering",
+    "Project Planning",
+    "Engineering Case Study",
+    "ProjectFile",
+    "Arabic Engineering",
+    "ملفات هندسية",
+    "دروس الموقع",
+    "فحص جودة الموقع"
+  ],
+  "evidence": "YouTube autocomplete 4 suggestions + competitor public views (29640; 4949; 4768) — YouTube suggest endpoint + linked videos; Google Trends link (HTTP 429, no index captured) — 2026-10-26 — measured",
+  "primary_keyword": "pre pour inspection",
+  "secondary_keywords": [
+    "pre pour foundation inspection",
+    "rebar inspection",
+    "pre slab inspection",
+    "فحص ما قبل الصب",
+    "استلام حديد التسليح",
+    "مهندس موقع",
+    "فحص الخرسانة",
+    "مراجعة الشدة قبل الصب"
+  ],
+  "search_intent": "بحث عملي باللهجة المصرية: مهندس موقع أو جودة يريد ترتيب فحص قبل الصب وقرارًا موثقًا؛ ليس بديلًا عن مستندات المشروع أو رأيًا هندسيًا للموقع.",
+  "chapters": [
+    {
+      "time": "00:00",
+      "title": "نفتح ملف الصبّة"
+    },
+    {
+      "time": "00:40",
+      "title": "المضخة وصلت والاعتماد مش واضح"
+    },
+    {
+      "time": "02:10",
+      "title": "خمس محطات للمراجعة"
+    },
+    {
+      "time": "03:15",
+      "title": "التسليح والغطاء"
+    },
+    {
+      "time": "04:20",
+      "title": "الشدات والمدفونات"
+    },
+    {
+      "time": "05:10",
+      "title": "نرجع لقرار الموقع"
+    },
+    {
+      "time": "06:15",
+      "title": "المراجع وحدودها"
+    },
+    {
+      "time": "07:43",
+      "title": "إمتى نعلّق الجزء؟"
+    },
+    {
+      "time": "09:12",
+      "title": "قائمة الفحص العملية"
+    },
+    {
+      "time": "09:55",
+      "title": "القرار والخلاصة"
+    },
+    {
+      "time": "10:30",
+      "title": "السؤال الأخير"
+    }
+  ],
+  "description_stage_note": "وصف نشر نهائي مقترح مبني على السكريبت الحالي؛ الفصول تقديرية وتُراجع بعد تسجيل عمر، ولا نشر قبل اعتماد النص والعنوان والغلاف.",
+  "trend_url": "https://trends.google.com/trends/explore?date=today%205-y&geo=SA&q=pre%20pour%20inspection%2C%D9%81%D8%AD%D8%B5%20%D9%85%D8%A7%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%B5%D8%A8",
+  "youtube_autocomplete": {
+    "query": "pre pour inspection rebar",
+    "suggestions": [
+      "pre pour inspection",
+      "pre pour foundation inspection",
+      "rebar inspection",
+      "pre slab inspection"
+    ],
+    "endpoint": "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=pre%20pour%20inspection%20rebar",
+    "captured_at": "2026-10-26"
+  },
+  "competitor_evidence": [
+    {
+      "title": "How to check REBAR. QUALITY in construction.",
+      "channel": "SITENG",
+      "views_as_of_2026_10_26": 29640,
+      "url": "https://www.youtube.com/watch?v=zxD39u_agUI"
+    },
+    {
+      "title": "Checking REBAR. Civil site ENGINEER inspection before concrete pour.",
+      "channel": "SITENG",
+      "views_as_of_2026_10_26": 4949,
+      "url": "https://www.youtube.com/watch?v=7ydsJixgDws"
+    },
+    {
+      "title": "What Is An Inspection And Testing Plan In Construction?",
+      "channel": "Jason Schroeder",
+      "views_as_of_2026_10_26": 4768,
+      "url": "https://www.youtube.com/watch?v=Bj_fMY3iunw"
+    }
+  ]
+}

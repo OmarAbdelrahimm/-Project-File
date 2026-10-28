@@ -1,0 +1,112 @@
+{
+  "_file": "PACK_ANGLE_A.json",
+  "id": "CASE_001-ANGLE_A",
+  "kind": "long",
+  "keyword": "EOT claim construction",
+  "title_a": "رفضوا المطالبة؟ EOT claim construction | ملف المشروع",
+  "title_b": "EOT claim construction: كيف توثق تأخير العقد؟",
+  "description": "EOT claim construction: نفتح ملف أزمة هندسية مركّبة تبدأ بقرار يبدو بسيطًا ثم تكشف أثره على العقد أو الموقع أو موعد الإنجاز. هذا مدخل البحث لهذه الحلقة وليس وعدًا بنتيجة جاهزة. سنفصل بين ما يثبته المستند وما يحتاج إلى تحقق، ونوضح أن كل مثال رقمي يظهر داخل الشرح تمثيلي وموسوم، وليس رقم مشروع أو واقعة منشورة. لا ننسب الحدث إلى شركة أو شخص حقيقي، ولا نحول حالة مركبة إلى خبر. هدف الحلقة أن تمنح مهندسًا عربيًا خطوة قابلة للاستخدام: سؤالًا صحيحًا، سجلًا أفضل، وقرارًا مبنيًا على وثيقة ومراجعة لا على الانطباع. في EOT claim construction نراجع الأدلة بالترتيب ونوضح حدود ما يمكن استنتاجه.\nالفصول: 00:00 نفتح الملف · 00:45 عرض الأزمة · 02:30 اختبار الأدلة · 06:00 القرار الهندسي · 09:00 الدرس العملي · 11:30 نقفل الملف. مرجع الفيديو للمقارنة التعليمية: https://www.youtube.com/watch?v=M22RMF5FtJk&t=60s. مصادر المعايير والحدود مذكورة في الملاحظات؛ يُرجع دائمًا إلى العقد والكود والإجراءات المعتمدة للمشروع. للمزيد من ملفات التخطيط والتنفيذ والعقود والمواقع اشترك في قناة ملف المشروع: https://www.youtube.com/@omar.abdelrahim1. EOT claim construction يصف نية البحث لهذه الحلقة فقط ولا يُفرض على حلقات أخرى. هذه مادة تعليمية عامة وليست رأيًا قانونيًا أو اعتمادًا هندسيًا. #ملف_المشروع #الهندسة_المدنية #إدارة_المشاريع",
+  "tags": [
+    "EOT claim construction",
+    "extension of time claim in construction",
+    "construction claims",
+    "delay analysis",
+    "إدارة العقود",
+    "مطالبة تمديد الوقت",
+    "تحليل التأخير",
+    "FIDIC claims",
+    "ملف المشروع",
+    "الهندسة المدنية",
+    "إدارة المشاريع",
+    "تخطيط مشاريع",
+    "تنفيذ مشاريع",
+    "عقود مقاولات",
+    "مهندس موقع",
+    "مهندس تخطيط",
+    "إدارة الإنشاءات",
+    "المقاولات",
+    "مهندسون عرب",
+    "إدارة الوقت",
+    "تأخير مشاريع",
+    "تحليل مخاطر",
+    "هندسة الخليج",
+    "Project Controls",
+    "Construction Management",
+    "Civil Engineering",
+    "Project Planning",
+    "Engineering Case Study",
+    "ProjectFile",
+    "Arabic Engineering",
+    "ملفات هندسية"
+  ],
+  "evidence": "YouTube autocomplete 3 suggestions + competitor public views (16375; 8129; 30790) — YouTube suggest endpoint + linked videos; Google Trends link (HTTP 429, no index captured) — 2026-10-26 — measured",
+  "primary_keyword": "EOT claim construction",
+  "secondary_keywords": [
+    "extension of time claim in construction",
+    "construction claims",
+    "delay analysis",
+    "إدارة العقود",
+    "مطالبة تمديد الوقت",
+    "تحليل التأخير",
+    "FIDIC claims"
+  ],
+  "search_intent": "بحث تعليمي/حل مشكلة: مهندس يريد معرفة ملف الإثبات والإشعار والربط بالبرنامج قبل تقديم مطالبة زمنية؛ ليس رأيًا قانونيًا.",
+  "chapters": [
+    {
+      "time": "00:00",
+      "title": "نفتح ملف المطالبة"
+    },
+    {
+      "time": "00:45",
+      "title": "الحدث الذي غيّر التسلسل"
+    },
+    {
+      "time": "03:00",
+      "title": "العقد والإشعار والسجل المعاصر"
+    },
+    {
+      "time": "06:30",
+      "title": "هل وصل التأثير إلى تاريخ الإكمال؟"
+    },
+    {
+      "time": "10:00",
+      "title": "ملف الإثبات العملي"
+    },
+    {
+      "time": "12:30",
+      "title": "نقفل الملف والسؤال"
+    }
+  ],
+  "description_stage_note": "الـdescription مسودة اكتشاف من سطرين فعليين مع بلوكات التحقق المطلوبة لقالب Riwaq؛ ليست وصف نشر نهائيًا. بعد اختيار الزاوية تُراجع صياغتها ومراجعها.",
+  "trend_url": "https://trends.google.com/trends/explore?date=today%205-y&geo=SA&q=EOT%20claim%20construction%2C%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9%20%D8%AA%D9%85%D8%AF%D9%8A%D8%AF%20%D8%A7%D9%84%D9%88%D9%82%D8%AA",
+  "youtube_autocomplete": {
+    "query": "EOT claim construction",
+    "suggestions": [
+      "extension of time claim in construction",
+      "eot claim",
+      "eot claims in construction"
+    ],
+    "endpoint": "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=EOT%20claim%20construction",
+    "captured_at": "2026-10-26"
+  },
+  "competitor_evidence": [
+    {
+      "title": "3 Tips to get you Extension of Time EOT Claim Approved",
+      "channel": "Planning Engineer FZE",
+      "views_as_of_2026_10_26": 16375,
+      "url": "https://www.youtube.com/watch?v=bLG2vlp2vho"
+    },
+    {
+      "title": "Extension of Time (EOT), Delay Analysis, and Entitlement to Prolongation Cost",
+      "channel": "Central Engineering Consultancy Bureau",
+      "views_as_of_2026_10_26": 8129,
+      "url": "https://www.youtube.com/watch?v=M22RMF5FtJk"
+    },
+    {
+      "title": "Complete Tutorial How to prepare extension of time claims",
+      "channel": "PLANNING - P6",
+      "views_as_of_2026_10_26": 30790,
+      "url": "https://www.youtube.com/watch?v=T3E2BDGdL5E"
+    }
+  ]
+}
